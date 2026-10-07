@@ -16,6 +16,9 @@ Mając te dane u siebie, możesz np.:
 
 <h3>Co potrafi:<br>moc · napięcie · prąd na L1 / L2 / L3 · moc bierna i pozorna · częstotliwość · energia pobrana i oddana · co kilka sekund · lokalnie</h3>
 
+![Miernik energii na szynie DIN](docs/0-meter.jpg)<br>
+*Miernik 3-fazowy BleBox (dostarczany przez Pstryk) w rozdzielnicy, na szynie DIN.*
+
 ### Przykład zastosowania — TymOS
 
 Tak wykorzystuję te dane w [TymOS](https://github.com/tymoteuszrogalewski/tymos), moim systemie automatyki domowej:
